@@ -1,0 +1,9 @@
+pip install bottle
+
+pip install bottle-beaker
+
+pip install css-html-js-minify
+pip install tornado
+pip install bcrypt
+
+pip install requests
